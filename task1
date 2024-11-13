@@ -1,0 +1,7 @@
+class Employee():
+  def emp_ID(eid,ename):
+    print("employee id is",eid)
+    print("employee name is",ename)
+e = Employee
+e.emp_Id(100,xxx)
+
